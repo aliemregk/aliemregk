@@ -3,7 +3,7 @@
 ### About Me
 Hello, I am Ali Emre Gök. I graduated from Computer Engineering in 2022 and I'm interested in web programming.
 
-- 🔭 I’m currently working on an Spring project.
+- 🔭 I’m currently working on a Spring project.
 - 🌱 I’m currently learning Spring and Angular.
 - 📫 How to reach me: 
 
