@@ -1,10 +1,10 @@
 ### Hi there 👋, I'am Ali Emre
 
 ### About Me
-Hello, I am Ali Emre Gök. I graduated from Computer Engineering in 2022 and I'm interested in web programming.
+Hello, I am Ali Emre Gök. I graduated from Computer Engineering in 2022 and I am doing a master's degree in the same field.
 
-- 🔭 I’m currently working on a Spring Boot & Angular project.
-- 🌱 I’m currently learning Spring and Angular.
+- 🔭 I’m currently working on a Deep Learning project.
+- 🌱 I’m currently learning Python & Deep Learning.
 - 📫 How to reach me: 
 
 <a href="https://www.linkedin.com/in/ali-emre-gok/"><img src="https://img.shields.io/badge/linkedin-2867B2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
